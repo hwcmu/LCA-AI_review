@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the published article."
+title: "Reproducibility repository for: Integrating machine learning into life cycle assessment: Review and future outlook"
+authors:
+  - family-names: Wang
+    given-names: Hairong
+doi: 10.1371/journal.pclm.0000732
+url: "https://doi.org/10.1371/journal.pclm.0000732"
+date-released: "2025-10-16"
+type: dataset
+preferred-citation:
+  type: article
+  title: "Integrating machine learning into life cycle assessment: Review and future outlook"
+  authors:
+    - family-names: Wang
+      given-names: Hairong
+  journal: "PLOS Climate"
+  volume: "4"
+  issue: "10"
+  year: 2025
+  doi: 10.1371/journal.pclm.0000732
+  url: "https://doi.org/10.1371/journal.pclm.0000732"
