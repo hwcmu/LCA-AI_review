@@ -2,13 +2,13 @@
 
 Reproducibility repository for the published open-access article:
 
-> Wang, H. (2025). Integrating machine learning into life cycle assessment: Review and future outlook. *PLOS Climate*, 4(10), e0000732. https://doi.org/10.1371/journal.pclm.0000732
+> Wang, H. (2025). [Integrating machine learning into life cycle assessment: Review and future outlook](https://doi.org/10.1371/journal.pclm.0000732). *PLOS Climate*, 4(10), e0000732.
 
 ## Quick Links
 
-- Published article: https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000732
-- DOI: https://doi.org/10.1371/journal.pclm.0000732
-- Repository: https://github.com/hwcmu/LCA-AI_review
+- [Read the published paper (DOI)](https://doi.org/10.1371/journal.pclm.0000732)
+- [Repository](https://github.com/hwcmu/LCA-AI_review)
+- [Citation metadata](CITATION.cff)
 
 ## Repository Scope
 
@@ -56,4 +56,3 @@ publication workflow notes.
   url = {https://doi.org/10.1371/journal.pclm.0000732}
 }
 ```
-
